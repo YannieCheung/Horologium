@@ -72,5 +72,6 @@ ___
 [链接名称][1]
 [1] : 链接地址
 ```
-[git][address]
-[address]: https://github.com/
+[Google][adr]
+
+[adr]: ./readme.md        "Google" 
