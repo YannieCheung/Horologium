@@ -72,6 +72,6 @@ ___
 [链接名称][1]
 [1] : 链接地址
 ```
-[Google][adr]
+[readme][adr]
 
 [adr]: ./README.md        "Google" 
