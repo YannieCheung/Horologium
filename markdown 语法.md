@@ -145,3 +145,15 @@ is maintained by the W3C.
 ```mathjax!
 $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 ```
+
+### 流程图 ([语法](http://adrai.github.io/flowchart.js/))
+```flow
+st=>start: 开始
+e=>end: 结束
+op=>operation: 操作步骤
+cond=>condition: 是 或者 否?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
