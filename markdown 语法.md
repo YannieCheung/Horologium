@@ -74,4 +74,4 @@ ___
 ```
 [Google][adr]
 
-[adr]: ./readme.md        "Google" 
+[adr]: ./README.md        "Google" 
