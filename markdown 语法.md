@@ -3,7 +3,7 @@ title: markdown 语法
 tags: 新建,模板,小书匠
 grammar_cjkRuby: true
 ---
-[top]
+
 # 常用语法
 
 ___
@@ -72,4 +72,5 @@ ___
 [链接名称][1]
 [1] : 链接地址
 ```
-[返回头部]:http://baidu.com
+[git][address]
+[address]: https://github.com/
